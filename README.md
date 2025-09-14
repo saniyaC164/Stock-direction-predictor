@@ -1,5 +1,7 @@
 **📈 Stock Direction Predictor**
 
+Deployed Link: https://stock-direction-predictor.streamlit.app/
+
 A machine learning-powered application that predicts the next-day direction (up or down) of stock prices using technical indicators and historical data.
 <br>
 
@@ -93,3 +95,4 @@ Visualization
 
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/4a1fcab3-b2eb-4d8f-86fe-eb9ad34b72dc" />
 <br>
+
